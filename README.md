@@ -10,5 +10,6 @@
 
 ## Contents
 
-![Input data](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/tree/main/data)
-![Analysis](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/blob/main/notebooks/week_2_g2m_insight.ipynb)
+1. [Input data](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/tree/main/data)
+
+2. [Analysis](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/blob/main/notebooks/week_2_g2m_insight.ipynb)
