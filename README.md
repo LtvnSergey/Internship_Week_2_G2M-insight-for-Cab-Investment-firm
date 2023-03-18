@@ -13,3 +13,5 @@
 1. [Input data](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/tree/main/data)
 
 2. [Analysis](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/blob/main/notebooks/week_2_g2m_insight.ipynb)
+
+3. [Presentation](https://github.com/LtvnSergey/Internship_Week_2_G2M-insight-for-Cab-Investment-firm/blob/main/G2M_Case_Study_V1.0.pptx)
